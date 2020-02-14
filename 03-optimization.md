@@ -25,7 +25,7 @@ Second derivative -> Hessian
 - Direct search methods have succeeded when more elaborate       
   approaches failed
 
-
+- THe main issue with this technique is finding the optimal point in the large search space thus both time and accuracy will be concerned. 
 
 ## Optimization (Gradient Descent)
 ===============================
