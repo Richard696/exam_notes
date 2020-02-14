@@ -1,4 +1,12 @@
-Optimization (Gradient Descent)
+## Optimization (Search) Methods
+- Mathematical/analytical solution -> applicable when the problem can be defined by mathematical equation and equation should be differentiable. 
+
+- Iterative methods -> Numrical optimization
+
+## SAmple Error/Loss Functions
+Goal -> to find or search for the model or solution with the minimum loss or error. 
+
+## Optimization (Gradient Descent)
 ===============================
 
 Batch Gradient Descent
