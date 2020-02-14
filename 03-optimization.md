@@ -7,11 +7,13 @@
 Goal -> to find or search for the model or solution with the minimum loss or error. 
 
 ### Derivatives of a multivariate function
-Function: g(w)
+
 
 First derivative -> Jacobian
 Jacobian is a vector-valued function that takes in matrix of all it's first-order partial derivatives.
 If the matrix is square,  the determinant is referred as Jacobian determininants. 
+
+J_ij = delta f_i/delta x_j
 
 Second derivative -> Hessian
 
@@ -42,4 +44,6 @@ Stochastic Gradient Descent
 + faster than others
 - more noise
 - large variance since only one example used for each learning step
+
+
 
