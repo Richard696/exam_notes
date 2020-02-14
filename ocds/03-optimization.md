@@ -27,7 +27,12 @@ Second derivative -> Hessian
 
 - THe main issue with this technique is finding the optimal point in the large search space thus both time and accuracy will be concerned. 
 
+https://www.researchgate.net/publication/228008187_Review_of_Optimization_Techniques
 
+
+https://www.sciencedirect.com/science/article/pii/S0377042700004234
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2105
 ## Optimization (Gradient Descent)
 ===============================
 
