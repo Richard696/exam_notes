@@ -17,6 +17,16 @@ J_ij = delta f_i/delta x_j
 
 Second derivative -> Hessian
 
+## Zero Order or Direct Search
+- Popular as it works well in the practice
+- 1st and second order methods are not appliacble to all
+  nonlinear optimization problems
+
+- Direct search methods have succeeded when more elaborate       
+  approaches failed
+
+
+
 ## Optimization (Gradient Descent)
 ===============================
 
